@@ -6,15 +6,15 @@ The bank sanction thousands of loan in a day, to keep a track of all of these in
 Relevant measures could be taken to reduce bad loans, track funding, and complete the monthly loan target.
 
 # Assumptions:
-•	The data does not contain manually created bias.
-•	Live updates depend on syncing frequency (daily/hourly).
+•	The data does not contain manually created bias.<br>
+•	Live updates depend on syncing frequency (daily/hourly).<br>
 
 # Dashboard design:
 
-1.	Loan Overview:
+1.	Loan Overview:<br>
 This kpi provides a detailed idea about the total loan application, total amount funded, total amount received, average interest rate, average DTI. Just by viewing these metrics the stakeholders can get a bigger picture amount the loan. 
 
-2.	Area wise distribution:
+2.	Area wise distribution:<br>
 The map shows the state where people take most amount of loan. Most amount of loans are taken by people in NV. We can also have an idea about the purpose for which people are taking the loan by filtering it with purpose slicer.
 
 # Analysis:
